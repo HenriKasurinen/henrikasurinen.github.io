@@ -1,0 +1,48 @@
+
+h1{
+		color: white;
+}
+
+
+
+h2{
+		color: white;
+}	
+
+body{
+	font: arial;
+}
+
+ul{
+	border-color: olive;
+	border-width: thick;
+	border-style: dotted;
+}
+
+p span{
+	color: red;
+}
+
+ol{
+	
+	border-color: olive;
+	border-width: thick;
+	border-style: dotted;
+	
+}
+
+p{
+	border-color: olive;
+	border-width: thick;
+	border-style: dotted;
+	color: white;
+}
+
+.testi{
+	background-color: rgba(0, 0, 0, 0.6);
+
+}
+
+#wikiteksti{
+	font-family: monospace;
+}
